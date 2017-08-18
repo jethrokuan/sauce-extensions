@@ -1,5 +1,5 @@
-import SharedbAceRWControl from 'sharedb-ace-rw-control/server';
-import SharedbAceMultipleCursors from 'sharedb-ace-multiple-cursors/server';
+import SharedbAceRWControl from 'sharedb-ace-rw-control/distribution/server';
+import SharedbAceMultipleCursors from 'sharedb-ace-multiple-cursors/distribution/server';
 import Router from 'koa-router';
 const router = new Router();
 
